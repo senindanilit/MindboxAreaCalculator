@@ -28,20 +28,23 @@
 using System;
 using AreaCalculator;
 
-class Program
+namespace ConsoleApp1
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Circle circle = new Circle(5.0);
-        double circleArea = circle.CalculateArea();
+        static void Main(string[] args)
+        {
+            Circle circle = new Circle(5.0);
+            double circleArea = circle.CalculateArea();
 
-       Triangle triangle = new Triangle(3.0, 4.0, 5.0);
-        double triangleArea = triangle.CalculateArea();
+            Triangle triangle = new Triangle(3.0, 4.0, 5.0);
+            double triangleArea = triangle.CalculateArea();
 
-        // TriangleUtils наследуется от Triangle и имеет расширенный фунционал
-        TriangleUtils triangle1 = new TriangleUtils(3.0, 4.0, 5.0);
-        bool isRightTriangle = triangle1.IsRightTriangle();
-        bool isIsoscelesTriangle = triangle1.IsIsoscelesTriangle();
-        
+            // TriangleUtils наследуется от Triangle и имеет расширенный фунционал
+            TriangleUtils triangle1 = new TriangleUtils(3.0, 4.0, 5.0);
+            bool isRightTriangle = triangle1.IsRightTriangle();
+            bool isIsoscelesTriangle = triangle1.IsIsoscelesTriangle();
+
+        }
     }
 }
