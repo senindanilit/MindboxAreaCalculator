@@ -1,0 +1,12 @@
+C:\Users\Danil\source\repos\AreaCalculator\bin\Debug\net6.0\AreaCalculator.deps.json
+C:\Users\Danil\source\repos\AreaCalculator\bin\Debug\net6.0\AreaCalculator.dll
+C:\Users\Danil\source\repos\AreaCalculator\bin\Debug\net6.0\AreaCalculator.pdb
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.dll
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\refint\AreaCalculator.dll
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\AreaCalculator.pdb
+C:\Users\Danil\source\repos\AreaCalculator\obj\Debug\net6.0\ref\AreaCalculator.dll
