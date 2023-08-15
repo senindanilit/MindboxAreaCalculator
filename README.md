@@ -1,4 +1,4 @@
-# Библиотека для вычисления площади фигур
+# Библиотека MindboxAreaCalculator для вычисления площади фигур
 
  
 Библиотека для вычисления площади фигур на C# предоставляет функциональность для расчета площади различных геометрических фигур с раширенными возможностями для треугольника. 
@@ -42,6 +42,7 @@ namespace ConsoleApp1
 
             // TriangleUtils наследуется от Triangle и имеет расширенный фунционал
             TriangleUtils triangle1 = new TriangleUtils(3.0, 4.0, 5.0);
+            double triangleArea1 = triangle1.CalculateArea();
             bool isRightTriangle = triangle1.IsRightTriangle();
             bool isIsoscelesTriangle = triangle1.IsIsoscelesTriangle();
 
